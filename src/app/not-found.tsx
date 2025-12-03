@@ -1,5 +1,3 @@
-import React from 'react';
-
 const NotFoundPage = () => {
     return (
         <div>
@@ -9,3 +7,5 @@ const NotFoundPage = () => {
 };
 
 export default NotFoundPage;
+
+// Просто 404 страница) TODO: Потом доделать стили

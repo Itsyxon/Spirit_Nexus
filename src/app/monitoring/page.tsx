@@ -1,8 +1,9 @@
+import Title from "@/widgets/title/ui/Title";
 
 const MonitoringPage = () => {
     return (
         <div>
-            Monitoring App
+            <Title />
         </div>
     );
 };
